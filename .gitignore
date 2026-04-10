@@ -1,0 +1,18 @@
+# mac
+.DS_Store
+
+# R
+.RData
+.Rhistory
+.Rproj.user/
+*.Rproj
+
+# large files
+*.zip
+*.tar.gz
+
+# data
+data/
+
+# Quarto cache
+*_files/
